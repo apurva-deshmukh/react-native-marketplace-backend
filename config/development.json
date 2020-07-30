@@ -1,0 +1,4 @@
+{
+  "assetsBaseUrl": "http://<IP_ADDRESS>:9000/assets/",
+  "port": 9000
+}
